@@ -8,6 +8,6 @@
 
 * Proyecto final para la materia Biometria II de la Facultad de Ciencias Exactas y Naturales 
 * Utilizamos una base de datos generada por el INDEC a partir de los datos obtenidos en la encuesta [ENFR 2018](https://www.indec.gob.ar/indec/web/Institucional-Indec-BasesDeDatos-2)
-* Realizamos una regresión logística para modelar una distribución de Poisson en R
+* Realizamos una regresión logística para modelar una distribución de Bernouilli en R
 * Escribimos un informe en RMarkdown
 * Diseñamos un poster 
