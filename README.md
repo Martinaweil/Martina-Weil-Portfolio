@@ -23,13 +23,3 @@
  * We generated a logistic regresion using R in order to model a Bernouilli distribution.
  * We wrote a report using RMarkdown.
  * We designed a poster.
-
-# [Protecto 3: Webscraping](https://github.com/Martinaweil/fragantica) 
-
-* Webscraping de la página [Fragantica](https://www.fragrantica.es/buscar/)
-* Utilicé el paquete de Python Beautiful soup 
-
-*English translation*
-* Webscraping of [Fragantica](https://www.fragrantica.es/buscar/)
-* I used the Python package Beautiful Soup
-
